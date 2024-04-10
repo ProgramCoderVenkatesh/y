@@ -2,7 +2,7 @@ import React from 'react'
 
 export const ClimateChange = () => {
   return (
-    <div className='main-content-box'>
+    <div className='main-content-box' style={{padding: 50, height: 3650}}>
     <div style={{float: 'left', width: 420, height: 590, padding: 20}} className='topics-content'>
       <ul>
         <li><a href="#first-header">What Is Climate Change?</a></li>

@@ -3,7 +3,7 @@ import React from 'react'
 export const Deforestation = () => {
   return (
     <>
-    <div style={{padding: 50, height: 3100}} className='main-content-box'>
+    <div style={{padding: 50, height: 4850}} className='main-content-box'>
     <div style={{float: 'left', width: 420, height: 590, padding: 20}} className='topics-content'>
       <ul>
         <li><a href="#first-content">What Is Deforestation?</a></li>
